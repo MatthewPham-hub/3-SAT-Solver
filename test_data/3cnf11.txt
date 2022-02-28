@@ -1,0 +1,8 @@
+( t + u + d')( r + z' + b')( w + i' + a')( w' + l + w')( e' + x + x')(
+f + w + x')( q + i' + v')( e + a + s)( z + c + k')( o + k' + u')( w + w +
+n')( r + b' + f)( t + z + j')( b' + u' + y')( w' + z' + q)( b + x +
+u')( q' + c + e')( i' + k' + r)( a' + p' + b)( v' + u' + t')( x' + s
++ x )( f + n' + m)( x + s' + w)( c' + h' + m)( u + v' + v')( s' + x' +
+n)( n' + c' + f')( i + e' + a)( t + q' + y)( u' + p' + y)( v' + r' +
+b')( t + k + f')( r' + h' + f)( z + c + r)( e + x' + g)( b' + r' + g)( j
++ m + s)( x + y' + x')( i + h + y')( t' + t' + t' )( d + d + d )

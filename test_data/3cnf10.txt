@@ -1,0 +1,15 @@
+( x + q + m')( l' + l' + g)( d' + q' + q)( i + f' + j')( q' + a + v')(
+f' + f + f)( d' + k + a')( y + m' + s)( t + r' + k')( b' + m + z')( w +
+o + r)( u + t + j')( c + c + h')( q + x' + e)( l' + z' + w')( g' + b' +
+r)( e + g' + j')( p + j + x)( x' + e' + j)( f + z + v)( k' + o' + o)( s +
+j + a')( x' + y + q')( i' + q' + n')( d + m' + a')( l' + h + m')( g +
+j' + h)( y' + r' + r')( t + t' + j)( l + b' + t)( g + d + o')( y + l +
+y')( t + n + q')( r + e + c')( w' + q + s')( e + l + e')( w + t' + r')(
+r + v' + j)( j + d' + t)( u + v + q')( n' + q + g')( i + s + b)( a' + g +
+h')( s' + o + r')( x + a + k')( s' + f + c)( x' + d' + g')( i + r +
+r')( n + d + h)( p + e' + l)( x + z + a')( c + l + q')( k' + j' + c')( s
++ e + r')( n + g + j)( l' + l + b')( v' + a' + r)( a + p + h)( i' + k' +
+w')( a' + p + g)( p + x + q)( k + l + w')( p' + a' + p)( k + c' + h)( f +
+e + z')( n' + c' + o)( l' + e' + g')( g + g' + y)( k + w + n')( m' +
+f' + a)( u + a + m)( c' + y' + y)( u' + d' + l)( z + s' + b)( b + q +
+f')( j' + l' + r')( o + a' + k')( w' + v + w)

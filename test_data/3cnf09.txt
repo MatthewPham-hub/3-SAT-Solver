@@ -1,0 +1,9 @@
+( c' + d + j)( c + f' + i)( f + h' + g')( f + g' + c')( i + b' + a')(
+i' + a + j')( i' + c' + f)( f + a' + h')( j + j + e')( i + c + f)( i' +
+c + f)( e' + f + h')( h' + b + c')( d' + e' + e)( j + a' + g)( j' + a'
++ g')( f' + d' + b')( b' + g' + d')( b + i + j')( e' + a + h')( h' +
+g + c')( h + f' + i')( h + e + e')( g' + c + h')( h' + g' + d')( d + c
++ j)( a' + a + e')( h' + b + g)( h + j + i')( a' + e + g)( h + c + b')( e
++ d + d)( e' + b' + f')( b + a + e')( i + a' + c')( i + g + b')( b' +
+b' + j')( f' + f + f')( c' + g + a)( j + e' + c')( j + c' + e)( g' +
+d' + j')
